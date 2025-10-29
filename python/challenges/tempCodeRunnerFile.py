@@ -1,0 +1,2 @@
+il"
+print("Kategori", usia)
